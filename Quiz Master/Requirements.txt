@@ -1,0 +1,11 @@
+Pre-Requisites :- ------------------------ 
+    1. You have to have the following softwares for the successful running of this software; which are 
+        I) Python (Only for the First time), it is downloadable from 'www.python.org'. 
+        II) MySQL (Only for the First time), it is downloadable from 'www.mysql.org'. 
+Installation :- ------------------- 
+    1. There will be two python files namely 'tables_in_quizmaster.py' and 'Quizmaster.py'. 
+    2. If you are running the software by the 3rd step mentioned below you have to pre install the following modules :- 
+    A.) mysql.connector 
+    3. Open the files in any python editors and run it to start and work on the software. 
+    4. First run the 'tables_in_quizmaster.py' to create the database and tables in MySQL. 
+    6. Then run the file 'Quizmaster.py' to start and work on the software.
